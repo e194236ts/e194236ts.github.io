@@ -1,0 +1,27 @@
+h1{
+   color:red;
+    font-family:"impact";
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+   color: black;
+   text-align: center;
+   background-color: greenyellow; 
+}
+h3{
+   color:purple;
+
+}
+h4{
+    color: purple;
+}
+p{
+    font-size:25px;
+    font-weight:bold;
+}
+
+body{
+    background-image:url("../images/04.jpg");
+    }
