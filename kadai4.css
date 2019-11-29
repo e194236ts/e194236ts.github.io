@@ -1,0 +1,18 @@
+background-color: black;
+
+p.bluecolor{
+    color:blue;
+}
+
+h1{
+    font-family: "impact";
+    font-size: 60px;
+}
+
+h2{
+    color:purple !important;
+}
+
+h2{
+    color: green ;
+}
