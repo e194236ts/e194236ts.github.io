@@ -1,0 +1,142 @@
+div.title{
+    width:1000px;
+    height:40px;
+    font-size:25px;
+    margin-bottom: 20px;
+    text-align:center;
+    font-family:cursive;
+    color:black;
+    background-blend-mode: color-dodge;
+    background-color:azure
+
+}
+div.menu{
+    background-color:black;
+     height:1200px;
+     width:1000px;
+}div.leftmenu{
+    margin-left: 80px;
+    vertical-align: top;
+    display:inline-block;
+    color: white;
+    height:100px;
+    width:350px;
+    font font-size: 15px;
+    font-family: cursive;
+}div.leftmenu2{
+    color:black;
+    background-color: greenyellow;
+    width:350px;
+    height:100px;
+    font-size:30px;
+    text-align:center;
+    padding:100px 0px 0px 0px;
+}div.leftmenu3{  
+    color:black;
+     background-color: greenyellow;
+    width:350px;
+    height:115px;
+    font-size:30px;
+    text-align:center;
+    margin-top:20px;
+    padding:110px 0px 0px 0px;
+}div.leftmenu4{ 
+    color:black;
+    background-color: greenyellow;
+    width:350px;
+    height:155px;
+    font-size:30px;
+    text-align:center;
+    margin-top:20px;
+    padding:100px 0px 0px 0px;
+}div.leftmenu5{
+    background-color: greenyellow;
+    color:black;
+    width:350px;
+    height:120px;
+    font-size:30px;
+    text-align:center;
+    margin-top:20px;
+     padding:80px 0px 0px 0px;
+}div.leftmenu6{
+     background-color: greenyellow;
+    color:black;
+    width:350px;
+    height:145px;
+    font-size:30px;
+    text-align:center;
+    margin-top:20px;
+     padding:130px 0px 0px 0px;
+}div.rightmenu{
+    vertical-align: top;
+    display:inline-block;
+    width:300px;
+    height:300px;
+}
+
+div.images1{
+    width:500px;
+    background-color:white;
+    text-align: center;
+    font-size:30px;
+}div.setumei1{
+    width:500px;
+    background-color:white;
+    font-size: 15px;
+    text-align:center;
+    font-family:cursive;
+}div.images2{
+    width:500px;
+    background-color:white;
+    text-align: center;
+    margin-top:20px;
+    font-size:30px;
+}div.setumei2{
+    width:500px;
+    background-color:white;
+    font-size: 15px;
+    text-align:center;
+    font-family:cursive;
+}div.images3{
+    width:500px;
+    background-color:white;
+    text-align: center;
+    margin-top:20px;
+    font-size:30px;
+}div.setumei3{
+    width:500px;
+    background-color:white;
+    font-size: 15px;
+    text-align:center;
+    font-family:cursive;
+     padding:0px 0px 0px 0px ;
+}div.images4{
+    width:500px;
+    background-color:white;
+    text-align: center;
+    margin-top:20px;
+    font-size:30px;
+}div.setumei4{
+    width:500px;
+    background-color:white;
+    font-size: 15px;
+    text-align:center;
+    font-family:cursive;
+}div.wrap{
+    width : 1000px;
+    margin : 0px auto;
+}
+body{
+    background-image: url("../images/02.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}div.footer{
+ width:1000px;
+    height:40px;
+    font-size:25px;
+    text-align:right;
+    font-family:cursive;
+    color:black;
+    background-color:azure;
+    
+}
